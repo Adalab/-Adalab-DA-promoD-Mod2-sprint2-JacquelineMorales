@@ -1,6 +1,8 @@
 # -Adalab-DA-promoD-Mod2-sprint2-JacquelineMorales
 
 Este es el repositorio de evaluación de Jacqueline
+
+
 Librerias con las que he trabajado:
 from IPython.core.interactiveshell import InteractiveShell 
 InteractiveShell.ast_node_interactivity = "all" 
